@@ -1,5 +1,3 @@
-Day 1: Historian Hysteria
-
 # Part 1
 
 The Chief Historian is always present for the big Christmas sleigh launch, but nobody has seen him in months! Last anyone heard, he was visiting locations that are historically significant to the North Pole; a group of Senior Historians has asked you to accompany them as they check the places they think he was most likely to visit.
@@ -46,7 +44,7 @@ Your actual left and right lists contain many location IDs. What is the total di
 
 ---
 
-# Part Two
+# Part 2
 
 Your analysis only confirmed what everyone feared: the two lists of location IDs are indeed very different.
 
